@@ -13,3 +13,18 @@
 /workspaces/Estudio_C_Sharp/obj/Debug/net8.0/Estudio_C_Sharp.pdb
 /workspaces/Estudio_C_Sharp/obj/Debug/net8.0/Estudio_C_Sharp.genruntimeconfig.cache
 /workspaces/Estudio_C_Sharp/obj/Debug/net8.0/ref/Estudio_C_Sharp.dll
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\bin\Debug\net8.0\Estudio_C_Sharp.exe
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\bin\Debug\net8.0\Estudio_C_Sharp.deps.json
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\bin\Debug\net8.0\Estudio_C_Sharp.runtimeconfig.json
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\bin\Debug\net8.0\Estudio_C_Sharp.dll
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\bin\Debug\net8.0\Estudio_C_Sharp.pdb
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\Estudio_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\Estudio_C_Sharp.AssemblyInfoInputs.cache
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\Estudio_C_Sharp.AssemblyInfo.cs
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\Estudio_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\Estudio_C_Sharp.sourcelink.json
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\Estudio_C_Sharp.dll
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\refint\Estudio_C_Sharp.dll
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\Estudio_C_Sharp.pdb
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\Estudio_C_Sharp.genruntimeconfig.cache
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\ref\Estudio_C_Sharp.dll
