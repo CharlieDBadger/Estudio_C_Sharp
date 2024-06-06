@@ -1,0 +1,15 @@
+/workspaces/Estudio_C_Sharp/bin/Debug/net8.0/Estudio_C_Sharp
+/workspaces/Estudio_C_Sharp/bin/Debug/net8.0/Estudio_C_Sharp.deps.json
+/workspaces/Estudio_C_Sharp/bin/Debug/net8.0/Estudio_C_Sharp.runtimeconfig.json
+/workspaces/Estudio_C_Sharp/bin/Debug/net8.0/Estudio_C_Sharp.dll
+/workspaces/Estudio_C_Sharp/bin/Debug/net8.0/Estudio_C_Sharp.pdb
+/workspaces/Estudio_C_Sharp/obj/Debug/net8.0/Estudio_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Estudio_C_Sharp/obj/Debug/net8.0/Estudio_C_Sharp.AssemblyInfoInputs.cache
+/workspaces/Estudio_C_Sharp/obj/Debug/net8.0/Estudio_C_Sharp.AssemblyInfo.cs
+/workspaces/Estudio_C_Sharp/obj/Debug/net8.0/Estudio_C_Sharp.csproj.CoreCompileInputs.cache
+/workspaces/Estudio_C_Sharp/obj/Debug/net8.0/Estudio_C_Sharp.sourcelink.json
+/workspaces/Estudio_C_Sharp/obj/Debug/net8.0/Estudio_C_Sharp.dll
+/workspaces/Estudio_C_Sharp/obj/Debug/net8.0/refint/Estudio_C_Sharp.dll
+/workspaces/Estudio_C_Sharp/obj/Debug/net8.0/Estudio_C_Sharp.pdb
+/workspaces/Estudio_C_Sharp/obj/Debug/net8.0/Estudio_C_Sharp.genruntimeconfig.cache
+/workspaces/Estudio_C_Sharp/obj/Debug/net8.0/ref/Estudio_C_Sharp.dll
