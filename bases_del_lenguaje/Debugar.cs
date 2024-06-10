@@ -12,7 +12,7 @@ greeting messages
         string messageText = "";
 
         foreach (string name in names)
-        {
+        { // Se pueden editar los puntos de ruptura con un parametro condicional booleano para pausar el programa.
             if (name == "Sophia")
                 messageText = SophiaMessage();
             else if (name == "Andrew")
