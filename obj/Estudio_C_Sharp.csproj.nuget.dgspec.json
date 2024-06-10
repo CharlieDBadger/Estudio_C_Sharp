@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Repositorios Locales\\Repositorios Visual Studio Code\\Estudio_C_Sharp\\Estudio_C_Sharp.csproj": {}
+    "C:\\Repositorios Locales\\Repositorios Visual Studio Code\\Estudio_C_Sharp\\Estudio_C_Sharp.csproj": {}
   },
   "projects": {
-    "c:\\Repositorios Locales\\Repositorios Visual Studio Code\\Estudio_C_Sharp\\Estudio_C_Sharp.csproj": {
+    "C:\\Repositorios Locales\\Repositorios Visual Studio Code\\Estudio_C_Sharp\\Estudio_C_Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Repositorios Locales\\Repositorios Visual Studio Code\\Estudio_C_Sharp\\Estudio_C_Sharp.csproj",
+        "projectUniqueName": "C:\\Repositorios Locales\\Repositorios Visual Studio Code\\Estudio_C_Sharp\\Estudio_C_Sharp.csproj",
         "projectName": "Estudio_C_Sharp",
-        "projectPath": "c:\\Repositorios Locales\\Repositorios Visual Studio Code\\Estudio_C_Sharp\\Estudio_C_Sharp.csproj",
+        "projectPath": "C:\\Repositorios Locales\\Repositorios Visual Studio Code\\Estudio_C_Sharp\\Estudio_C_Sharp.csproj",
         "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "c:\\Repositorios Locales\\Repositorios Visual Studio Code\\Estudio_C_Sharp\\obj\\",
+        "outputPath": "C:\\Repositorios Locales\\Repositorios Visual Studio Code\\Estudio_C_Sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config"
