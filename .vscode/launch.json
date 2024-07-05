@@ -3,5 +3,69 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": []
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/net8.0/Estudio_C_Sharp.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "logging": {
+                "trace": false,
+                "programOutput": true
+            },
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach",
+            "processId": "${command:pickProcess}"
+        }
+    ]
+    // EXPLICACIÓN DE LAS OPCIONES:
+    /*
+        "version": "0.2.0": Versión del formato de configuración.
+        "configurations": Lista de configuraciones de depuración disponibles.
+        "name": Nombre de la configuración que aparecerá en la lista de configuraciones de depuración.
+        "type": Tipo de depurador, en este caso .NET Core.
+        "request": Tipo de solicitud, launch para iniciar el programa y attach para adjuntar el depurador a un proceso en ejecución.
+        "preLaunchTask": Tarea a ejecutar antes de iniciar la depuración. Debe coincidir con una tarea definida en tasks.json.
+        "program": Ruta al ensamblado de tu programa (YourProjectName.dll).
+        "args": Lista de argumentos para pasar al programa en la línea de comandos.
+        "cwd": Directorio de trabajo actual para el programa.
+        "stopAtEntry": Si true, detendrá la ejecución al inicio del programa.
+        "console": Define dónde se muestra la salida de la consola. "internalConsole" usa la consola interna de VS Code.
+        "logging": Configuración de los registros.
+        "internalConsoleOptions": Opciones para la consola interna.
+    */
+
+    // CONCEPTO: 
+        /*
+        El archivo launch.json en Visual Studio Code se utiliza para configurar la depuración de tu aplicación.
+
+        Propósito del archivo launch.json:
+        Configurar la Depuración: Permite configurar cómo se ejecutará y depurará tu aplicación.
+
+        Definir Configuraciones de Depuración: Puedes definir diferentes configuraciones de depuración para tu proyecto, por ejemplo, 
+        para ejecutar la aplicación en modo consola, adjuntar a un proceso en ejecución, etc.
+
+        Especificar Opciones de Depuración: Puedes establecer opciones como el programa de inicio, los argumentos de línea de comandos, 
+        el directorio de trabajo actual, entre otros.
+
+        ¿Por qué es útil?
+        Facilita la Depuración: Permite iniciar y depurar tu aplicación directamente desde Visual Studio Code.
+
+        Configuración Personalizada: Puedes configurar diferentes escenarios de depuración según tus necesidades.
+
+        Control Total sobre la Depuración: Permite establecer puntos de interrupción, observar variables y 
+        controlar la ejecución de tu aplicación durante la depuración.
+
+        En resumen, launch.json es útil para configurar y controlar el proceso de depuración de tu aplicación directamente desde
+        Visual Studio Code, lo que facilita el desarrollo y la resolución de problemas en tu código.
+        */
 }

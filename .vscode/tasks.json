@@ -1,0 +1,56 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "build",
+			"command": "dotnet",
+			"type": "process",
+			"args": [
+				"build",
+				"${workspaceFolder}/Estudio_C_Sharp.csproj"
+			],
+			"problemMatcher": "$msCompile"
+		}
+	]
+	// EXPLICACIÓN DE OPCIONES:
+	
+	/*
+		"version": "2.0.0": Versión del formato de configuración.
+		"tasks": Lista de tareas configuradas.
+		"label": Nombre de la tarea.
+		"command": Comando a ejecutar, en este caso dotnet.
+		"type": Tipo de proceso, en este caso process.
+		"args": Argumentos del comando, en este caso se usa build seguido del archivo .csproj.
+		"problemMatcher": Define cómo coincidir los problemas de compilación en la salida, $msCompile es el más común para proyectos de C#.
+		"group": Agrupa la tarea en la categoría de compilación (build), y isDefault la establece como la tarea de compilación predeterminada.
+	*/
+
+	// CONCEPTO:
+
+	/*
+	El archivo tasks.json en Visual Studio Code se utiliza para definir tareas personalizadas que pueden ser ejecutadas dentro del 
+	entorno de desarrollo. Estas tareas pueden ser, por ejemplo, compilación de código, ejecución de pruebas, limpieza de archivos, entre otras.
+
+	Propósito del archivo tasks.json:
+	Definir Tareas Personalizadas: Permite definir comandos personalizados para ejecutar diferentes acciones dentro de tu proyecto.
+
+	Automatización de Tareas: Puedes automatizar tareas comunes de desarrollo, como compilar tu proyecto, ejecutar pruebas, etc.
+
+	Configuración de Tareas de Compilación y Construcción: Es especialmente útil para configurar la compilación de proyectos, 
+	lo que facilita el proceso de desarrollo.
+
+	Configuración de Tareas de Linting, Formateo, etc.: Puedes configurar tareas para ejecutar linters, 
+	formateadores de código u otras herramientas de análisis estático.
+
+	¿Por qué es útil?
+	Automatización: Permite ejecutar tareas comunes con solo presionar un botón o un atajo de teclado.
+
+	Consistencia: Ayuda a mantener un flujo de trabajo consistente para el desarrollo.
+
+	Productividad: Facilita la ejecución de acciones repetitivas, lo que ahorra tiempo y esfuerzo.
+
+	En resumen, tasks.json es útil para automatizar y definir tareas personalizadas dentro de Visual Studio Code, 
+	lo que mejora la eficiencia y la consistencia en tu flujo de trabajo de desarrollo.
+	
+	*/
+}
