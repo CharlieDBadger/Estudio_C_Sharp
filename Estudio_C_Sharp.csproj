@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <StartupObject>BaseExcepciones</StartupObject>
+    <StartupObject>Fibonacci</StartupObject>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
