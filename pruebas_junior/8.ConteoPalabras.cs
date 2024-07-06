@@ -21,7 +21,7 @@ class ConteoPalabras
     {
         palabraBuscada = palabraBuscada.ToLower();
 
-        char[] delimitadores = [',', ';', ' '];
+        char[] delimitadores = [',', ';', '.', ' ', '?', '!'];
 
         string[] palabras = texto.Split(delimitadores, StringSplitOptions.RemoveEmptyEntries);
 
