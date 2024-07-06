@@ -24,7 +24,7 @@ class BaseExcepciones
 
         try
         {
-            string? str = null;
+            string? str = "";
             int length = str.Length;
             Console.WriteLine("String Length: " + length);
         }

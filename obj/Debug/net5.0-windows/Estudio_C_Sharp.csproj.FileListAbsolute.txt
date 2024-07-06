@@ -1,0 +1,6 @@
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net5.0-windows\Estudio_C_Sharp.csproj.AssemblyReference.cache
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net5.0-windows\Estudio_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net5.0-windows\Estudio_C_Sharp.AssemblyInfoInputs.cache
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net5.0-windows\Estudio_C_Sharp.AssemblyInfo.cs
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net5.0-windows\Estudio_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net5.0-windows\Estudio_C_Sharp.sourcelink.json

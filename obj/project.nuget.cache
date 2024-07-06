@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lRzOaFQIXt0=",
+  "dgSpecHash": "2hn6hTYLQTk=",
   "success": true,
   "projectFilePath": "C:\\Repositorios Locales\\Repositorios Visual Studio Code\\Estudio_C_Sharp\\Estudio_C_Sharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

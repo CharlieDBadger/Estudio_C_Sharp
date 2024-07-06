@@ -28,3 +28,9 @@ C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debu
 C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\Estudio_C_Sharp.pdb
 C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\Estudio_C_Sharp.genruntimeconfig.cache
 C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\ref\Estudio_C_Sharp.dll
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\Estudio_C_Sharp.csproj.AssemblyReference.cache
+C:\Repositorios Locales\Repositorios Visual Studio Code\Estudio_C_Sharp\obj\Debug\net8.0\Estudio_.91DE31DA.Up2Date
